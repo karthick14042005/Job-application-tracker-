@@ -1,7 +1,7 @@
-# Job-application-tracker-
+# Job-application-tracker-#
+
 A simple project to track job applications. This README explains how to **clone the repo** and **run the project**.
 
----
 
 ## **1. Clone the Repository **
 
